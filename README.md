@@ -30,7 +30,6 @@ Here are some of the shortcuts used in the software:
 
 There are some test scenes provided, including one that looks like a commercial for Philips. Also, Traces accepts Sculpt 3D object format.
 
-For more tutorial, I suggest watching my Traces Installation Tutorial and Blender Bach Traces Tutorial
+For more tutorial, I suggest watching my [Traces Installation Tutorial](https://www.youtube.com/watch?v=VytkRK0bQHE) and Blender Bach [Traces Tutorial](https://www.youtube.com/watch?v=zKn8qjgG1YA&t=0s)
 
-- https://www.youtube.com/watch?v=VytkRK0bQHE
-- https://www.youtube.com/watch?v=zKn8qjgG1YA&t=0s
+All information used in this project is based on Piotr Zgodziński's article on [Blender’s prehistory](https://zgodzinski.com/blender-prehistory/).
