@@ -5,7 +5,7 @@
 ## Introduction
  This is a repository for my Amiga Traces restoration project.
  
-Traces is an in-house 3D modeling, animation, and ray tracing software developed by the Dutch animation studio NeoGeo Videographics. This software later got rewritten into what we know today as Blender.
+Traces is an in-house 3D modeling, animation, and ray tracing software developed by the Dutch animation studio NeoGeo Videographics. This software later got rewritten into what we know today as [Blender](https://www.blender.org).
 
 ## Installation
 To run the software, you need either a working Amiga computer or an emulator. From my experience, the software works best with Workbench 1.3. But it will work on versions 2.x and 3.x as well. Before running the software, make sure to install the required dependencies. There are 3 files that the software needed to be put into specific directories. First, iff.library needs to be put into the Libs folder in the amiga directory. There's also univers.font and univers folder that needs to be put into the Fonts folder in the amiga directory. After that, you could run Traces by using Traces disk 1, or by Putting the Traces folder with the .info file into the amiga directory.
